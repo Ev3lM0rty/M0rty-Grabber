@@ -1,3 +1,5 @@
+<img alt="YAP" src="https://i.imgur.com/oHniyWK.png">
+
 \ Requirements \
 
 - latest version of Python 3: https://www.python.org/downloads/
